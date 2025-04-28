@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulazeez
 - 👀 I’m interested in UX and Cloud Engineering
-- 🌱 I’m currently Devops 
+- 🌱 I’m currently training for Devops 
 - 💞️ I’m looking to collaborate on Cloud Engineering projects
 - 📫 How to reach me brightdev10@outlook.com brightdev10@gmail.com
 - ⚡ Fun fact: Sometimes wish i was a pro footballer
